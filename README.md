@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ## Coding challenge
 
@@ -12,4 +12,3 @@ To run code `dart run main.dart ` in terminal
 
 ### Good luck!
 
-</div>
